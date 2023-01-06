@@ -2,6 +2,7 @@
 torch
 numpy
 pandas
-
-
+sklearn
+matplotlib
+twensorflow
 # ================================================================================== #
